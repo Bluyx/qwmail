@@ -3,8 +3,6 @@
 
 temp mail
 
-Don’t forget to ⭐️
-
 ## Installation
 ```bash
 git clone https://github.com/Shiiivx/qwmail.git
